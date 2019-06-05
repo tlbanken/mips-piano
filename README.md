@@ -21,6 +21,7 @@ The MARS simulator is required for this piano to work.
    - Type a valid character and the piano will play the pitch associated with
      that character.
 ## Char-Note Map
+```
 q -> Eb3    h -> C4     ' -> A4
 a -> E3     u -> Db4    ] -> Bb4
 s -> F3     j -> D4     \ -> B4
@@ -30,3 +31,4 @@ r -> Ab3    l -> F4
 f -> A3     p -> Gb4 
 t -> Bb3    ; -> G4
 g -> B3     [ -> Ab4
+```
