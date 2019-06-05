@@ -1,7 +1,10 @@
 # Mips Piano
 
 This is a virtual piano written in MIPS assembly and using the bitmap display and keyboard additions in the MARS simulator. 
-The MARS simulator is required for this piano to work.
+The MARS simulator is required for this piano to work. Keyboard keys will be mapped to different notes and as a note is
+playing, the associated key on the piano will highlight red.
+
+![Mips Piano](https://github.com/bankent1/mips-piano/blob/master/piano_example.png)
 
 ## Bitmap Display Config:
    - Tools->Bitmap Display
